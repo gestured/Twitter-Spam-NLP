@@ -1,2 +1,2 @@
 # Twitter-Spam-NLP
-Spam/Ham classification using naive-bayes.
+Spam/Ham classification using Naive-bayes algorithm.
